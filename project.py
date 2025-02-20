@@ -20,4 +20,5 @@ def parse_csv(file_path):
 #Get the data
 data = parse_csv('student-mat.csv')
 #Print first 5 rows
-print(data[:5])
+#print(data[:5])
+print("1.Exploritory Data Analysis (EDA) Output:")
